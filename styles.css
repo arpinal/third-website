@@ -1,0 +1,11 @@
+body{
+    background-color: lightskyblue;
+    color: aliceblue;
+    h1{color: dimgray;}
+    p{color: cornsilk;}
+}
+
+img{
+border-radius: 50%;
+
+}
